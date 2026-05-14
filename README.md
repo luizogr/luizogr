@@ -11,7 +11,7 @@ Sou graduando em **Sistemas de Informação** pela **UFVJM**. Atuo no desenvolvi
 ### 🚀 Tecnologias e Ferramentas
 
 **Linguagens de Programação**
-- Java (8, 17, 21), Python, SQL, HTML5, CSS3, Bash/Shell Script.
+- Java (8, 17, 21), Python, SQL, HTML5, CSS3.
 
 **Frameworks e Bibliotecas**
 - Spring Boot 3, Spring Security, Spring Data JPA, Hibernate, JWT, Maven.
