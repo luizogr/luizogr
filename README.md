@@ -31,7 +31,8 @@ Sou graduando em **Sistemas de Informação** pela **UFVJM**. Atuo no desenvolvi
 3. **Oficina Mecânica:** Sistema para gerenciamento de ordens de serviço e controle de manutenção.
 
 ### 📫 Como me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/luizogr/
+- **LinkedIn:** [linkedin.com/in/luizogr](https://www.linkedin.com/in/luizogr)
+- **Lattes:** [Lattes de Luiz Otávio](http://lattes.cnpq.br/5591955252208716)
 - **E-mail:** luiz.goncalves@ufvjm.edu.br
 
 ---
